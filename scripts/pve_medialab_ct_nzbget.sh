@@ -84,7 +84,7 @@ CT_STARTUP='2'
 CT_PASSWORD='0'
 # PVE Container OS
 OSTYPE='ubuntu'
-OSVERSION='22.04'
+OSVERSION='20.04'
 
 #---- Other Files ------------------------------------------------------------------
 
